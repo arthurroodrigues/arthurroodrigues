@@ -1,16 +1,25 @@
-## Hi there 👋
+# Arthur Rodrigues
 
-<!--
-**arthurroodrigues/arthurroodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades em programação e desenvolvimento web. Tenho interesse em aprender novas ferramentas, criar projetos práticos e aprofundar meus conhecimentos na área de tecnologia.
 
-Here are some ideas to get you started:
+## Áreas de Interesse
+-Desenvolvimento Web (HTML, CSS, JavaScript)
+-Python
+-Banco de Dados
+-Git e GitHub
+-Automação e soluções práticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+Email: arthur.roodrigues.andrade@gmail.com  
+LinkedIn: https://www.linkedin.com/in/arthurroodrigues/  
+GitHub: https://github.com/arthurroodrigues
+
+## Tecnologias que utilizo
+-HTML e CSS  
+-Python  
+-Git, GitHub  
+-Visual Studio Code
+
+## Projetos
+
