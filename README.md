@@ -51,9 +51,9 @@
   </a>
 
 
-  <a href="mailto:arthur.rodrigues.andrade@gmail.com" style="display: flex; align-items: center; gap: 10px;">
+  <a href="mailto:arthur.roodrigues.andrade@gmail.com" style="display: flex; align-items: center; gap: 10px;">
     <img height="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-    <strong>Email → arthur.rodrigues.andrade@gmail.com</strong>
+    <strong>Email → arthur.roodrigues.andrade@gmail.com</strong>
   </a>
 
  
