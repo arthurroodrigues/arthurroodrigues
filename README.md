@@ -1,37 +1,65 @@
+# 📌 Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
+- 🎓 Estudando Ciência da Computação na CESAR School.  
+- 🌱 Skills em **Python, HTML, CSS, JavaScript**.
+
+---
+
+# 🚀 Minhas Skills
+
+## **Aplicações e Dados**
+
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+</div>
+
+---
+
+## **DevOps**
+
+<div style="display: flex; gap: 10px;">
+
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
 
 
-## Sobre mim
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+</div>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na CESAR School.
-- 🌱 Skills em Python,HTML,CSS,JavaScript.
+---
 
-## Minhas Skills
+## **Ferramentas de Desenvolvimento**
 
-**Aplicações e dados**
+<div style="display: flex; gap: 10px;">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png">
+</div>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+---
 
+# 🌐 Onde me encontrar
 
-**DevOps**
-
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<div style="display: flex; flex-direction: column; gap: 12px;">
 
 
-<br/>
+  <a href="https://www.linkedin.com/in/arthurroodrigues/" style="display: flex; align-items: center; gap: 10px;">
+    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <strong>LinkedIn → arthurroodrigues</strong>
+  </a>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
 
-## Onde me encontrar
+  <a href="mailto:arthur.rodrigues.andrade@gmail.com" style="display: flex; align-items: center; gap: 10px;">
+    <img height="28" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+    <strong>Email → arthur.rodrigues.andrade@gmail.com</strong>
+  </a>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurroodrigues/)](https://www.linkedin.com/in/arthurroodrigues/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthur.roodrigues.andrade@gmail.com)](mailto:arthur.roodrigues.andrade@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/arthurroodrigues)
+ 
+  <a href="https://github.com/arthurrodrigues" style="display: flex; align-items: center; gap: 10px;">
+    <img height="28" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png">
+    <strong>GitHub → arthurrodrigues</strong>
+  </a>
+
+</div>
