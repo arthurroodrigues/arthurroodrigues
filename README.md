@@ -57,7 +57,7 @@
   </a>
 
  
-  <a href="https://instagram.com/@arthur.roodrigues" style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://instagram.com/arthur.roodrigues" style="display: flex; align-items: center; gap: 10px;">
     <img height="28" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
     <strong>Instagram → @arthur.roodrigues</strong>
 
