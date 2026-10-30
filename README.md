@@ -2,7 +2,7 @@
 
 # Olá, eu sou Arthur Rodrigues! 👋🏻
 
-### Estudante de Ciência da Computação
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=539BF5&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Building+projects+and+learning+every+day;C+%7C+Python+%7C+Java+%7C+JavaScript;Always+learning%2C+always+building." alt="Typing SVG" />
 
